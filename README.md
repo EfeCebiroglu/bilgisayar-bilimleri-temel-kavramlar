@@ -1,2 +1,2 @@
 # bilgisayar-bilimleri-temel-kavramlar
-Bilgisayar bilimleri temel karamlarını yazdım
+Bilgisayar bilimleri temel kavramlarını yazdım
